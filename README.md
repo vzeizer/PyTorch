@@ -67,11 +67,22 @@ Options:
 -Use a mapping of categories to real names: python predict.py input checkpoint --category_names cat_to_name.json
 -Use GPU for inference: python predict.py input checkpoint --gpu
 
+## What to Install?
+
+1. Python
+2. NumPy
+3. matplotlib
+4. pytorch
+5. PIL
+6. seaborn
+
 
 ## Content of the files: 
 
-
-
+1. Image Classifier Project (1).html: the html of the Jupyter notebook file of the project;
+2. predict.py: predicts a flower based on a given architecture;
+3. train.py: train a model to classify flowers;
+4. Rubrics_project2.pdf: rubrics of the project according to Udacity.
 
 ## MIT License
 
