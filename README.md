@@ -69,7 +69,7 @@ Options:
 
 ## What to Install?
 
-1. Python
+1. Python 2
 2. NumPy
 3. matplotlib
 4. pytorch
@@ -79,12 +79,15 @@ Options:
 
 ## Content of the files: 
 
+
 1. Image Classifier Project (1).html: the html of the Jupyter notebook file of the project;
-2. predict.py: predicts a flower based on a given architecture;
+2. predict.py: predicts a flower based on a given architecture (vgg16 or vgg19);
 3. train.py: train a model to classify flowers;
 4. Rubrics_project2.pdf: rubrics of the project according to Udacity.
 
+
 ## MIT License
+
 
 Copyright (c) 2019 Vagner Zeizer C. Paes
 
